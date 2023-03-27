@@ -1,6 +1,6 @@
 Финальная работа по автоматизации тестирования. Тестирование сайта "Ростелеком"
 Тест-кейсы и баг-репорт, достыпные по ссылке:
-https://docs.google.com/spreadsheets/d/1gr___weJQkRD0z6JZqVURcR4QYXGOVDw-8DBJOsHpFA/edit#gid=0
+(https://docs.google.com/spreadsheets/d/1gr___weJQkRD0z6JZqVURcR4QYXGOVDw-8DBJOsHpFA/edit?usp=sharing)
 
 1. В папке pages в файлах auth_page.py, change_pass_page.py, reg_page.py находятся методы проверок: файл auth_page.py содержит методы проверок формы авторизации; файл change_pass_page.py содержит методы проверок формы восстановления пароля; файл reg_page.py содержит методы проверок формы регистрации.
 2. В папке pages в файле base_page.py находится конструктор webdriver и общие для всех тестируемых страниц методы.
